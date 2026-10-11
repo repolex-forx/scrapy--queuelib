@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "queuelib",
+  "versions": [
+    {
+      "commit": "885ef61c6ad9b61682329074f539cbb8c262a580",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:26:17.092021+00:00"
+    }
+  ]
+}
