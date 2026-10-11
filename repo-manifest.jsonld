@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy/queuelib/commit/885ef61c6ad9b61682329074f539cbb8c262a580",
       "git:hexsha": "885ef61c6ad9b61682329074f539cbb8c262a580",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/queuelib/commit/13b89f8fb232eb4cde4b46bb368354c47c91c299",
